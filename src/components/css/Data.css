@@ -1,0 +1,18 @@
+p {
+  font-family: "Andale Mono", monospace;
+}
+h3 {
+  font-family: "Courier New", monospace;
+}
+.media {
+  float: left;
+  justify-content: center;
+  align-items: center;
+  width: 130px;
+  height: 250px;
+  padding: 2px 20px 10px 20px;
+  margin-right: 10px;
+  margin-top: 140px;
+  background-color: lightsteelblue;
+  text-align: center;
+}
